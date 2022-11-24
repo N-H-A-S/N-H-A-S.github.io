@@ -158,42 +158,6 @@ ul.header-bottom {
 ul.header-bottom li {
 	display: inline-block;
 }
-a.facebook {
-	background: url(../images/img-sprite.png) no-repeat 0px 0px;
-	width: 48px;
-	height: 48px;
-	display: block;
-}
-a.facebook:hover {
-	background: url(../images/img-sprite.png) no-repeat 0px -56px;
-}
-a.twitter {
-	background: url(../images/img-sprite.png) no-repeat -56px 0px;
-	width: 48px;
-	height: 48px;
-	display: block;
-}
-a.twitter:hover {
-	background: url(../images/img-sprite.png) no-repeat -56px -56px;
-}
-a.gp {
-	background: url(../images/img-sprite.png) no-repeat -112px 0px;
-	width: 48px;
-	height: 48px;
-	display: block;
-}
-a.gp:hover {
-	background: url(../images/img-sprite.png) no-repeat -112px -55px;
-}
-a.instagram {
-	background: url(../images/img-sprite.png) no-repeat -168px 0px;
-	width: 48px;
-	height: 48px;
-	display: block;
-}
-a.instagram:hover {
-	background: url(../images/img-sprite.png) no-repeat -168px -56px;
-}
 a.behance {
 	background: url(../images/img-sprite.png) no-repeat -224px 0px;
 	width: 48px;
